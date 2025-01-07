@@ -1,4 +1,4 @@
-**Tidemaster: Pramuka Island, Indonesia**  
+# *Tidemaster Field Survey Data: Tidal Measurements on Pramuka Island, June 2024*
 Tidemaster: Pramuka Island, Indonesia
 This repository contains tidal data collected from Pramuka Island, located in the Thousand Islands (Kepulauan Seribu), Indonesia. The dataset is valuable for analyzing tidal patterns, supporting coastal studies, and aiding in ecological and environmental monitoring in the region.
 
@@ -10,7 +10,7 @@ The tidal data was collected between 14 June 2024 and 22 June 2024 as part of th
 The tidal data was collected using Tidemaster sensors installed on Pramuka Island. These sensors recorded tidal levels continuously throughout the field course, generating high-resolution data suitable for various analyses.
 
 
-## ""License**
+## **License**
 This project is licensed under the Oceanography Program, Institut Teknologi Bandung License.
 
 ## **Acknowledgments**
